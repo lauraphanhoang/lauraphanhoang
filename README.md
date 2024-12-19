@@ -14,8 +14,7 @@
 <a margin="10" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-512/react-3-1175109.png?f=avif&w=256" alt="react"></a>
 <a margin="10" target="_blank"><img margin="10px" height="40" src="https://cdnlogo.com/logos/r/18/react-native.svg" alt="postgres"></a>
 <a margin="10"  target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-512/nodejs-2-226035.png?f=avif&w=256" alt="nodejs"></a>
+</div>
 
 <br />
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraphanhoang&theme=tokyonight)
-</div>
