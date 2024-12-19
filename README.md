@@ -5,6 +5,8 @@
 - 🌱 Where I'm learning FullStack (JavaScript, HTML, CSS, React, React Native, Node...).
 - 💬 Looking for an intership or a work-study as a FullStack / Backend / Frontend developer 👩🏻‍💻
 - 📫 How to reach me: lauraph1997@yahoo.fr
+- 💫 Portfolio : <a  href="https://lauraphanhoang-portfolio.netlify.app/"  target="_blank"> https://lauraphanhoang-portfolio.netlify.app/</a>
+
 
 <div align="center">
 <br />
